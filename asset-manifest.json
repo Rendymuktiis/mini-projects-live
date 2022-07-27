@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mini-projects-live/static/css/main.f7756f89.css",
+    "main.js": "/mini-projects-live/static/js/main.fd059fa8.js",
+    "static/media/logo.png": "/mini-projects-live/static/media/logo.460ebb7ff217f0673d34.png",
+    "static/media/cover_not_found.jpg": "/mini-projects-live/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/library-img.jpg": "/mini-projects-live/static/media/library-img.b1e1bcda2e639911de2a.jpg",
+    "index.html": "/mini-projects-live/index.html",
+    "static/media/loader.svg": "/mini-projects-live/static/media/loader.7a77db7fdd7bf9b9a7ee949779801b13.svg",
+    "main.f7756f89.css.map": "/mini-projects-live/static/css/main.f7756f89.css.map",
+    "main.fd059fa8.js.map": "/mini-projects-live/static/js/main.fd059fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7756f89.css",
+    "static/js/main.fd059fa8.js"
+  ]
+}
